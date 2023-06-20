@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/50753c83-895c-433b-b1cf-586e7a97d0af/deploy-status)](https://app.netlify.com/sites/tetris-kaloyan/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bc32d89-e9c6-4fdb-93d5-bb4b24239ad2/deploy-status)](https://app.netlify.com/sites/nuxt-dojo-kaloyan/deploys)
 
 https://nuxt-dojo-kaloyan.netlify.app
 
