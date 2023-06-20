@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50753c83-895c-433b-b1cf-586e7a97d0af/deploy-status)](https://app.netlify.com/sites/tetris-kaloyan/deploys)
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
