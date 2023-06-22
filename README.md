@@ -1,9 +1,5 @@
 # Nuxt 3 Minimal Starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9bc32d89-e9c6-4fdb-93d5-bb4b24239ad2/deploy-status)](https://app.netlify.com/sites/nuxt-dojo-kaloyan/deploys)
-
-https://nuxt-dojo-kaloyan.netlify.app
-
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
